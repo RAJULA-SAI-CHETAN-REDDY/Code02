@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run App",
+            "request": "launch",
+            "mainClass": "App7",
+            "vmArgs": "--module-path \"C:\\Users\\anuus\\OneDrive\\Desktop\\OOSDL\\javafx\\lib\" --add-modules javafx.controls,javafx.fxml " 
+        }
+    ]
+}
